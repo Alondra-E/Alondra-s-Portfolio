@@ -37,8 +37,8 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Using Machine learning and Python functions the analysis revealed that best location for profit would be near University neighborhoods. A marketing strategy would be a Student discount/special.
 
 **Presentations/paper:** 
-[Blue Bottle Coffee ppt](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Blue%20Bottle%20Coffee%20Company%20Presentation%20pt1.pptx.pdf)
-
+[Blue Bottle Coffee #1 ppt](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Blue%20Bottle%20Coffee%20Company%20Presentation%20pt1.pptx.pdf)
+[Blue Bottle Coffee #2 ppt](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Blue%20Bottle%20Coffee%20Company%20Presentation%20pt2.pptx.pdf)
 
 ### Verde Brewing Co. Data Analysis
 **Code:** 
