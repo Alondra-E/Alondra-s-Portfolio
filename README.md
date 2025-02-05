@@ -43,7 +43,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Code:** 
 [Verde Brewing code market basket analysis.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Verde Brewing code market basket analysis.py)
 
-[Verde Brewing code additional_days_of_operation_impact.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Verde Brewing code additional_days_of_operation_impact.py)
+[Verde Brewing code additional_days_of_operation_impact.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Verde%20Brewing%20code%20additional_days_of_operation_impact.py)
 
 [Verde Brewing code correlation between sales and social media posts.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Verde Brewing code correlation between sales and social media posts.py)
 
