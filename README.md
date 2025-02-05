@@ -63,4 +63,4 @@ In this section I will list data analytics projects briefly describing the techn
 [Phase 3_Verde Brewing.pdf](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Phase 3_Verde Brewing.pdf)
 [Phase 4_Verde Brewing.pdf](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Phase 4_Verde Brewing.pdf)
 
-[Verde Brewing Final Paper.pdf](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Verde Brewing Final Paper.pdf)
+[Verde Brewing Final Paper.pdf](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Verde%20Brewing%20Final%20Paper.pdf)
