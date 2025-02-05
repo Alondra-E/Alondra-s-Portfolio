@@ -1,11 +1,22 @@
-# Alondra-s-Portfolio
-This is a repository to showcase skills, share projects and track my progress in Business Data Analytics / related topics
-# Alondra Espinoza - Portfolio
+# Alondra Espinoza - Portfolio  
 
-## About 
-About me...
-Academic...
-Personal...
+## About Me  
+I'm a Business Data Analytics student at the W. P. Carey School of Business at Arizona State University, graduated in December 2024. With a strong passion for data-driven decision-making, my experience includes chatbot analytics, customer behavior analysis, and market expansion strategies.  
+
+Beyond data, I enjoy expressing creativity through arts and crafts, crocheting, and exploring cafes. These hobbies fuel my problem-solving mindset and attention to detail.
+
+## Academic Background  
+- **Bachelor of Science in Business Data Analytics** – Arizona State University  
+- **International Business Studies Certificate**  
+- **Study Abroad** – Korea University Business School (Spring 2023)  
+
+## Projects  
+- **Blue Bottle Coffee Analysis** – Developed visual insights and predictive models for market expansion.  
+- **Verde Brewing Co. Data Analysis** – Conducted sales trend analysis and market basket analysis to optimize product marketing.  
+
+## Skills  
+- **Technical:** SQL, Python, Power BI, Tableau, Machine Learning, Advanced Excel  
+- **Data Analysis:** Consumer insights, Data Cleaning, Predictive Modeling, Visualization  
 
 link to CV...
 
