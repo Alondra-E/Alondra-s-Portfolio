@@ -57,5 +57,9 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Using Python functions, the analysis revealed that the additional open dates had increased profit, eliminate poor performing beers or focus marketing on them, and a promotion on the highest corelating items (nachos & sodas).
 
-**Presentations/paper:** [📄 View My Resume](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Resume.pdf)
+**Presentations/paper:** 
+[Phase 1_Verde Brewing.pdf](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Phase 1_Verde Brewing.pdf)
+[Phase 2_Verde Brewing.pdf](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Phase 2_Verde Brewing.pdf)
+[Phase 3_Verde Brewing.pdf](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Phase 3_Verde Brewing.pdf)
+[Phase 4_Verde Brewing.pdf](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Phase 4_Verde Brewing.pdf)
 
