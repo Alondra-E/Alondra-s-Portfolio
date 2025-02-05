@@ -17,7 +17,7 @@ Beyond data, I enjoy expressing creativity through arts and crafts, crocheting, 
 - **Data Analysis:** Consumer insights, Data Cleaning, Predictive Modeling, Visualization  
 
 ## Resume  
-[📄 View My Resume](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Resume.pdf)
+[📄 Resume](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Resume.pdf)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
@@ -36,7 +36,8 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Results:** Using Machine learning and Python functions the analysis revealed that best location for profit would be near University neighborhoods. A marketing strategy would be a Student discount/special.
 
-**Presentations/paper:** [📄 View My Resume](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Resume.pdf)
+**Presentations/paper:** 
+[Blue Bottle Coffee ppt](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Blue%20Bottle%20Coffee%20Company%20Presentation%20pt1.pptx.pdf)
 
 
 ### Verde Brewing Co. Data Analysis
