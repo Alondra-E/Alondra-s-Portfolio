@@ -23,14 +23,12 @@ Beyond data, I enjoy expressing creativity through arts and crafts, crocheting, 
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
 
 ### Blue Bottle Coffee Analysis
-**Code:** Blue_Bottle_Coffee_code.ipynb
+**Code:** [blue_bottle_coffee_code.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/blue_bottle_coffee_code.py)
+
 
 **Goal**: Leveraging Data for Competitive Advantage.
 
 **Description:** Developed visual insights in Python to support data-driven decisions for market expansion. Built predictive models using logistic regression and decision trees to improve targeting strategies. Analyzed salary data to identify high-income customers and where they reside for the ideal locations for business growth.
-**Presentation:**
-Blue Bottle Coffee Company pt1.pptx
-Blue Bottle Coffee Company pt2.pptx
 
 **Skills:** data cleaning, data analysis, Predictive modeling, Machine learning, data visualization.
 
@@ -38,22 +36,26 @@ Blue Bottle Coffee Company pt2.pptx
 
 **Results:** Using Machine learning and Python functions the analysis revealed that best location for profit would be near University neighborhoods. A marketing strategy would be a Student discount/special.
 
+**Presentations/paper:** [📄 View My Resume](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Resume.pdf)
+
 
 ### Verde Brewing Co. Data Analysis
 **Code:** 
-Verde Brewing code market basket analysis.py
-Verde Brewing code additional_days_of_operation_impact.py
-Verde Brewing code correlation between sales and social media posts.py
+[Verde Brewing code market basket analysis.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Verde Brewing code market basket analysis.py)
+
+[Verde Brewing code additional_days_of_operation_impact.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Verde Brewing code additional_days_of_operation_impact.py)
+
+[Verde Brewing code correlation between sales and social media posts.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Verde Brewing code correlation between sales and social media posts.py)
 
 **Goal**: Analyse consumer behavior to optimize operations and marketing strategies.
 
 **Description:** Analyzed customer behavior and sales trends for Verde Brewing Co., using data-driven insights to optimize operations and marketing strategies. Conducted market basket analysis to uncover product pairings, increasing cross-sell opportunities by 15%. Presented actionable recommendations to improve product marketing, streamline supply chains, and enhance customer engagement.
-**Presentations/paper:**
-
 
 **Skills:** preprocessing, data cleaning, data analysis, marketbasket analysis, data visualization.
 
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, LabelEncoder, metrics
 
 **Results:** Using Python functions, the analysis revealed that the additional open dates had increased profit, eliminate poor performing beers or focus marketing on them, and a promotion on the highest corelating items (nachos & sodas).
+
+**Presentations/paper:** [📄 View My Resume](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Resume.pdf)
 
