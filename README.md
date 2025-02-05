@@ -45,7 +45,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 [Verde Brewing code additional_days_of_operation_impact.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Verde%20Brewing%20code%20additional_days_of_operation_impact.py)
 
-[Verde Brewing code correlation between sales and social media posts.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Verde Brewing code correlation between sales and social media posts.py)
+[Verde Brewing code correlation between sales and social media posts.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Verde%20Brewing%20code%20correlation%20between%20sales%20and%20social%20media%20posts.py)
 
 **Goal**: Analyse consumer behavior to optimize operations and marketing strategies.
 
