@@ -41,7 +41,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Verde Brewing Co. Data Analysis
 **Code:** 
-[Verde Brewing code market basket analysis.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Verde Brewing code market basket analysis.py)
+[Verde Brewing code market basket analysis.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Verde%20Brewing%20code%20market%20basket%20analysis.py)
 
 [Verde Brewing code additional_days_of_operation_impact.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Verde%20Brewing%20code%20additional_days_of_operation_impact.py)
 
