@@ -60,7 +60,8 @@ In this section I will list data analytics projects briefly describing the techn
 **Presentations/paper:** 
 [Phase 1](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Phase 1_Verde Brewing.pdf)
 [Phase 2](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Phase 2_Verde Brewing.pdf)
-[Phase 3](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Phase 3_Verde Brewing.pdf)
+
+[Phase 3](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Phase%203_Verde%20Brewing.pdf)
 
 [Phase 4_Final](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Phase%204_Verde%20Brewing%20Final%20Presentation.pdf)
 
