@@ -16,7 +16,8 @@ Beyond data, I enjoy expressing creativity through arts and crafts, crocheting, 
 - **Technical:** SQL, Python, Power BI, Tableau, Machine Learning, Advanced Excel  
 - **Data Analysis:** Consumer insights, Data Cleaning, Predictive Modeling, Visualization  
 
-link to resume: file:///Users/alondraespinoza/Downloads/Resume%20(1).pdf
+## Resume  
+[📄 View My Resume](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Resume.pdf)
 
 ## Portfolio Projects
 In this section I will list data analytics projects briefly describing the technology stack used to solve cases.
