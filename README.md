@@ -72,7 +72,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 ### Sephora product reviews Data Analysis
 **Code:** 
-[Sephora code.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/)
+[Sephora code.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Sephora_code.ipynb)
 
 **Goal**: Analyze Sephora's product data to uncover consumer preferences, pricing trends, and sentiment insights to provide data-driven marketing recommendations.
 
