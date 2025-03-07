@@ -69,3 +69,19 @@ In this section I will list data analytics projects briefly describing the techn
 [Phase 4_Final](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Phase%204_Verde%20Brewing%20Final%20Presentation.pdf)
 
 [Verde Brewing Final Paper](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Verde%20Brewing%20Final%20Paper.pdf)
+
+### Sephora product reviews Data Analysis
+**Code:** 
+[Sephora code.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/)
+
+**Goal**: Analyze Sephora's product data to uncover consumer preferences, pricing trends, and sentiment insights to provide data-driven marketing recommendations.
+
+**Description:** Conducted an in-depth analysis of Sephora’s product dataset, containing over 8,000 items, to identify key trends in consumer preferences, pricing, and sentiment. Performed exploratory data analysis (EDA) to examine the relationship between product popularity, price, and brand reputation. Utilized sentiment analysis with TextBlob to classify customer reviews as positive, neutral, or negative, revealing patterns in consumer satisfaction. Key insights helped shape strategic recommendations, including targeted promotions for high-end products, ingredient-based marketing strategies, and initiatives to boost customer engagement through review incentives and social media outreach.
+
+**Skills:** preprocessing, data cleaning, data analysis, exploratory data analysis (EDA), sentiment analysis, data visualization, and business insights.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, wordcloud, TextBlob, apriori, networkx, Kaggle dataset
+
+**Results:** Found a negative correlation between price and product love counts, identified key sentiment drivers, and proposed strategies such as targeted promotions, ingredient-based marketing, and review engagement campaigns.
+
+**Presentations/paper:**
