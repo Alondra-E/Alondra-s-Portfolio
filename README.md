@@ -70,7 +70,7 @@ In this section I will list data analytics projects briefly describing the techn
 
 [Verde Brewing Final Paper](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Verde%20Brewing%20Final%20Paper.pdf)
 
-### Sephora product reviews Data Analysis
+### Sephora product reviews Analysis
 **Code:** 
 [Sephora code.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Sephora_code.ipynb)
 
@@ -85,3 +85,4 @@ In this section I will list data analytics projects briefly describing the techn
 **Results:** Found a negative correlation between price and product love counts, identified key sentiment drivers, and proposed strategies such as targeted promotions, ingredient-based marketing, and review engagement campaigns.
 
 **Presentations/paper:**
+[Sephora Analysis Project.ppt](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Sephora%20Analysis%20Project.pptx)
