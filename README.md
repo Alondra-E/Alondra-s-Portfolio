@@ -3,9 +3,7 @@
 This is a repository to showcase skills, share projects and track my progress in Business Data Analytics /related topics
 
 ## About Me  
-I'm a Business Data Analytics student at the W. P. Carey School of Business at Arizona State University, graduated in December 2024. With a strong passion for data-driven decision-making, my experience includes chatbot analytics, customer behavior analysis, and market expansion strategies.  
-
-Beyond data, I enjoy expressing creativity through arts and crafts, crocheting, and exploring cafes. These hobbies fuel my problem-solving mindset and attention to detail.
+Hello, I’m Alondra Espinoza, a recent graduate from Arizona State University’s W. P. Carey School of Business. I earned a degree in Business Data Analytics and a certificate in International Business Studies. My academic experience provided me with a strong foundation in data analytics, including data collection, analysis, and visualization. Outside of academics, I enjoy exploring new cafes, and arts and crafts. Best memory of school would have to be my study abroad experience. I am currently looking for opportunities to showcase and grow my knowledge and skills.
 
 ## Academic Background  
 - **Bachelor of Science in Business Data Analytics** – Arizona State University  
@@ -13,8 +11,7 @@ Beyond data, I enjoy expressing creativity through arts and crafts, crocheting, 
 - **Study Abroad** – Korea University Business School (Spring 2023)   
 
 ## Skills  
-- **Technical:** SQL, Python, Power BI, Tableau, Machine Learning, Advanced Excel  
-- **Data Analysis:** Consumer insights, Data Cleaning, Predictive Modeling, Visualization  
+- **Technical:** SQL, Python, Tableau, Machine Learning, Advanced Excel, Microsoft Office 
 
 ## Resume  
 [📄 Resume](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Resume.pdf)
