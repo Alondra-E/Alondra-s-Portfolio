@@ -83,3 +83,20 @@ In this section I will list data analytics projects briefly describing the techn
 
 **Presentations/paper:**
 [Sephora Analysis Project.ppt](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Sephora%20Analysis%20Project.pptx)
+
+### Coffee Shop Transactions Analysis
+**Code:** 
+[coffee shop code.py](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/coffee_shop_sales_code.py)
+
+**Goal**: Analyze coffee shop's transaction data to uncover consumer preferences, sales trends, and provide data-driven marketing recommendations.
+
+**Description:** Conducted an in-depth analysis of coffee sales data from a dataset containing over 149,000 transactions across three NYC locations to uncover key trends in consumer purchasing behavior and sales performance. Performed exploratory data analysis (EDA) to evaluate the impact of product type, pricing, and time-based trends on revenue. Identified that coffee and tea products generate the highest sales, while packaged goods underperform, indicating a strong preference for ready-to-drink beverages. Weekdays consistently drive higher revenue due to commuter traffic, whereas weekends experience a decline in sales. Based on findings, proposed strategic recommendations such as loyalty programs to increase repeat purchases, targeted social media campaigns, and potential store expansion to capitalize on growing demand.
+
+**Skills:** data preprocessing, data cleaning, data analysis, exploratory data analysis (EDA), data visualization, business insights, and marketing strategy development.
+
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib, Tableau, Excel, Kaggle dataset
+
+**Results:** Identified peak sales trends, uncovered customer preferences for product categories, and proposed actionable strategies, including loyalty programs, store expansion considerations, and enhanced marketing initiatives to improve customer engagement and drive revenue growth.
+
+**Presentations/paper:**
+[Coffee Shop Transactions Analysis Project](https://github.com/Alondra-E/Alondra-s-Portfolio/blob/main/Analyzing%20Coffee%20Sales.pdf)
